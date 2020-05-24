@@ -1,0 +1,4 @@
+cron:
+- description: "hourly update"
+  url: /update
+  schedule: every 1 hours
